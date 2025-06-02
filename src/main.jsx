@@ -13,7 +13,7 @@ import AdminProtectedRoute from "./AdminProtectedRoute.jsx";
 import AdminLogin from "./components/AdminLogin.jsx";
 import TableReservation from "./components/TableReservation.jsx";
 import TableReservationProtectedRoute from "./TableReservationProtectedRoute.jsx";
-import ConfirmTable from "./components/confirmTable.jsx";
+import ConfirmTable from "./components/ConfirmTable.jsx";
 
 const router = createBrowserRouter([
   {
